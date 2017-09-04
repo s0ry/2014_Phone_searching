@@ -1,4 +1,4 @@
-# 2014 Phone searching
+# Phone searching
 
 개요
 -------------
@@ -64,5 +64,5 @@ String receiveNumber = "";
 String receiveText = "";
     
 public void onReceive(Context context, Intent intent)	// 메세지 내용 반환
-public String getNumber ()							// 전화번호 반환
+public String getNumber ()				// 전화번호 반환
 </code></pre>
